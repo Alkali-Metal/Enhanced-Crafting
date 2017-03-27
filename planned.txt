@@ -1,0 +1,8 @@
+This is the list of currently planned additional recipes and their crafting guide:
+    -Clay = Shapeless:
+        -Dirt
+        -Seeds
+        -Iron nugget
+        -Water Bucket
+    -6 sided bark logs = Shapeless:
+        2 logs (result is the bark type of the wood)
