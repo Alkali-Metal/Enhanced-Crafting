@@ -2,6 +2,8 @@
 
 
 ## What will the recipe look like?
+    (Recipe shape can be ignored for shapeless crafting)
+    
    `X` `X` `X`
    `X` `X` `X`
    `X` `X` `X`
