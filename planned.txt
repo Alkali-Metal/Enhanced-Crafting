@@ -8,3 +8,4 @@ This is the list of currently planned additional recipes and their crafting guid
         -2 logs (result is the bark type of the wood)
     -Better Stairs
         -Changes the stair crafting recipe from a 3:2 to 1:1 crafting ratio
+        -Reclaimation recipe (Because #WhyNot)
