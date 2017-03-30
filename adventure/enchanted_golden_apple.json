@@ -1,0 +1,22 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "###",
+        "#X#",
+        "###"
+        ],
+    "key":{
+        "#":{
+            "item":"minecraft:gold_ingot"
+            },
+        "X":{
+            "item":"minecraft:skull",
+            "data":3
+            }
+        },
+    "result":{
+        "item":"minecraft:golden_apple",
+        "data":1,
+        "count":3
+    }
+}
