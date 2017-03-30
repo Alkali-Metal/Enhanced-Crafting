@@ -1,0 +1,60 @@
+                            Welcome to Enhanced Crafting!
+
+        A series of .json files to be used in conjunction with Minecraft.
+        These folders contain various files which, when put into a world
+        save folder of Minecraft, affect how the crafting system works
+        and creates recipes for things which there usually wouldn't be a
+        recipe for (Block reclaiming, clay, etc.). All of the files are
+        completely optional on whether or not you use them and in this
+        file there are installation structures for how to put them into
+        Minecraft and activate them. See you on the other side!
+
+
+
+
+
+
+                            Downloading the files:
+
+There are 2 different ways to download the files:
+    -If you know how to use Git you can clone the files using this command
+        git clone https://github.com/alkali-metal/Enhanced-Crafting
+     This will create a new folder with all of the files in it (including
+     this file)
+    
+    OR
+    
+    -You can click the green "Clone or download" button above the file viewer
+     you will then want to press the "Download ZIP" button, this will download
+     a zip archive to you computer, you will want to unzip this file with the
+     file manager of your choice.
+
+
+
+
+
+
+                              Adding to Minecraft:
+This will cause a new folder to be made with the Enhanced Crafting files in it
+(including this one). From within that file you will want to select your base
+Enhancement module (For survival situations I (Alkali) would recommend nothing
+more than survival, survival+ and adventure but the final decision is up to you,
+look at what they can craft with each module and decide from there) if there are
+any items within the module you feel like your players should not be able to
+craft, delete the .json file corresponding to that item. Now, if you feel so
+strongly about a crafting recipe that should be different or not exist at all,
+let me know by submitting an issue at:
+        https://github.com/Alkali-Metal/Enhanced-Crafting/issues/new
+                                      and I will review it and either make the
+changes or deny the changes because they are either:
+    -Not thought out good enough
+    or
+    -It was intended to be that way for a very specific reason
+                                                   other than those two reasons
+it should not get denied unless there is a mass revolt against it. Because this
+is a community driven project it is for the most part, completely decided by
+people who, like you, are wanting to enhance crafting in Minecraft. Most of the
+crafting recipes in this collection have been discussed over multiple times and
+changed even more. We have tried to keep these recipes as reasonable as possible
+but sometimes we just couldn't these are the times when we need your help to sort
+out the recipes and help us get them into the modules as soon as possible.
