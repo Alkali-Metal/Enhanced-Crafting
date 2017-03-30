@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone_stairs"
+    },
+    {
+      "item": "minecraft:cobblestone_stairs"
+    },
+    {
+      "item": "minecraft:cobblestone_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone",
+    "data": 0,
+    "count": 6
+  }
+}
