@@ -1,16 +1,14 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:oak_stairs"
-    },
-    {
-      "item": "minecraft:oak_stairs"
-    },
-    {
-      "item": "minecraft:oak_stairs"
-    }
+  "type": "crafting_shaped",
+  "pattern":[
+    "# ",
+    "##"
   ],
+  "key":{
+    "#":{
+        "item":"minecraft:oak_stairs"
+    }
+  },
   "result": {
     "item": "minecraft:planks",
     "data": 0,

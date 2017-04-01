@@ -1,19 +1,17 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:brick_stairs"
-    },
-    {
-      "item": "minecraft:brick_stairs"
-    },
-    {
-      "item": "minecraft:brick_stairs"
-    }
+  "type": "crafting_shaped",
+  "pattern":[
+    "# ",
+    "##"
   ],
+  "key":{
+    "#":{
+        "item":"minecraft:brick_stairs"
+    }
+  },
   "result": {
     "item": "minecraft:brick_block",
-    "data": 0,
+    "data":0,
     "count": 6
   }
 }

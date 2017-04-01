@@ -1,16 +1,14 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:acacia_stairs"
-    },
-    {
-      "item": "minecraft:acacia_stairs"
-    },
-    {
-      "item": "minecraft:acacia_stairs"
-    }
+  "type": "crafting_shaped",
+  "pattern":[
+    "# ",
+    "##"
   ],
+  "key":{
+    "#":{
+        "item":"minecraft:acacia_stairs"
+    }
+  },
   "result": {
     "item": "minecraft:planks",
     "data": 4,

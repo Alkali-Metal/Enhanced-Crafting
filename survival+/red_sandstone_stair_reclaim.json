@@ -1,16 +1,14 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:red_sandstone_stairs"
-    },
-    {
-      "item": "minecraft:red_sandstone_stairs"
-    },
-    {
-      "item": "minecraft:red_sandstone_stairs"
-    }
+  "type": "crafting_shaped",
+  "pattern":[
+    "# ",
+    "##"
   ],
+  "key":{
+    "#":{
+        "item":"minecraft:red_sandstone_stairs"
+    }
+  },
   "result": {
     "item": "minecraft:red_sandstone",
     "data": 0,
